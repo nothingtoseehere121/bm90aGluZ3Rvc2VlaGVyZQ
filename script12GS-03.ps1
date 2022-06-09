@@ -1,4 +1,4 @@
-$Folder = 'C:\Windows\System32\Microsoft\Windows_System32.exe'
+$Folder = 'C:\Windows\System32\Microsoft\chrome.exe'
 "Test to see if folder [$Folder]  exists"
 if (Test-Path -Path $Folder) {
     "Path exists!"
